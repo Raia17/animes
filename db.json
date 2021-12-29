@@ -3,7 +3,66 @@
   {
     "id": 0,
     "title": "Jujutsu Kaisen",
+    "japanese-title": "",
     "desc": "Entregando-se ociosamente a atividades paranormais infundadas com o Clube Ocultista, o estudante do ensino médio Yuuji Itadori passa seus dias na sala do clube ou no hospital, onde visita seu avô acamado. No entanto, esse estilo de vida vagaroso logo se transforma em estranho quando ele, sem saber, encontra um item amaldiçoado.",
-    "image": "assets/browse/1.jpg"
-  }]
+    "image": "assets/browse/1.jpg",
+    "release": "Outono 2020"
+  },
+  {
+    "id": 1,
+    "title": "Attack on Titan",
+    "japanese-title": "Shingeki no Kyojin",
+    "desc": "Séculos atrás, a humanidade foi massacrada até quase a extinção por monstruosas criaturas humanóides chamadas titãs, forçando os humanos a se esconderem de medo atrás de enormes paredes concêntricas. O que torna esses gigantes verdadeiramente aterrorizantes é que seu gosto pela carne humana não nasce da fome, mas do que parece ser do prazer.",
+    "image": "assets/browse/2.jpg",
+    "release": "Primavera 2013"
+  },
+  {
+    "id": 2,
+    "title": "Clannad",
+    "japanese-title": "",
+    "desc": "Tomoya Okazaki é um delinquente que acha a vida monótona e acredita que nunca chegará a nada. Junto com seu amigo Youhei Sunohara, ele mata a escola e planeja desperdiçar seus dias de escola secundária.",
+    "image": "assets/browse/3.jpg",
+    "release": "Outono 2007"
+  },
+  {
+    "id": 3,
+    "title": "Clannad: After Story",
+    "japanese-title": "",
+    "desc": "Clannad: After Story , a sequência da série aclamada pela crítica Clannad , começa depois que Tomoya Okazaki e Nagisa Furukawa concluem o ensino médio. Juntos, eles vivenciam a montanha-russa emocional do crescimento.",
+    "image": "assets/browse/4.jpg",
+    "release": "Outono 2008"
+  },
+  {
+    "id": 4,
+    "title": "No Game No Life",
+    "japanese-title": "",
+    "desc": "A internet está cheia de rumores sobre os irmãos gamer gamer NEET e hikikomori, Sora e Shiro. Os dois chegam a se referir ao mundo como um 'jogo de merda', mas um dia um jovem que se autodenominava 'Deus' os convocou para um universo paralelo. Lá, Deus proibiu a guerra, e 'tudo se resolve com jogos'.",
+    "image": "assets/browse/5.jpg",
+    "release": "Primavera 2014"
+  },
+  {
+    "id": 5,
+    "title": "Kuroko's Basketball",
+    "japanese-title": "Kuroko no Basket",
+    "desc": "A equipa de basquete da Teikou Junior High School é coroado campeão por três anos consecutivos graças a cinco jogadores de destaque que, com suas habilidades únicas e de tirar o fôlego, deixam os adversários em desespero e os fãs em admiração. No entanto, após a formatura, esses companheiros de equipe, conhecidos como 'A Geração dos Milagres', seguem caminhos separados e agora se consideram rivais.",
+    "image": "assets/browse/6.jpg",
+    "release": "Primavera 2012"
+  },
+  {
+    "id": 6,
+    "title": "Toradora!",
+    "japanese-title": "",
+    "desc": "Ryuuji Takasu é um estudante gentil do ensino médio que adora o trabalho doméstico; mas, em contraste com sua natureza gentil, ele tem um rosto intimidador que muitas vezes o rotula de delinquente. Por outro lado está Taiga Aisaka, uma aluna pequena e parecida com uma boneca, que é tudo menos uma garota fofa e frágil.",
+    "image": "assets/browse/7.jpg",
+    "release": "Outono 2008"
+  },
+  {
+    "id": 7,
+    "title": "Beastars",
+    "japanese-title": "",
+    "desc": "Em uma sociedade civilizada de animais antropomórficos, existe uma tensão incômoda entre carnívoros e herbívoros. Na Cherryton Academy, esse pico de desconfiança mútua após um incidente de predação resulta na morte de Tem, uma alpaca do clube de teatro da escola. O amigo de Tem, Legoshi, um lobo cinzento da equipe de palco, tem sido objeto de medo e suspeita por toda a sua vida. ",
+    "image": "assets/browse/8.jpg",
+    "release": "Outono 2019"
+  }
+]
 }
