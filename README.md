@@ -1,0 +1,2 @@
+# animes
+Fake JSON data
