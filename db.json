@@ -7,7 +7,6 @@
       {
         "id": 0,
         "title": "Jujutsu Kaisen",
-        "japanese_title": "",
         "desc": "Entregando-se ociosamente a atividades paranormais infundadas com o Clube Ocultista, o estudante do ensino médio Yuuji Itadori passa seus dias na sala do clube ou no hospital, onde visita seu avô acamado. No entanto, esse estilo de vida vagaroso logo se transforma em estranho quando ele, sem saber, encontra um item amaldiçoado.",
         "image": "assets/browse/1.jpg",
         "release": "Outono 2020",
@@ -16,7 +15,6 @@
       {
         "id": 1,
         "title": "Attack on Titan",
-        "japanese_title": "Shingeki no Kyojin",
         "desc": "Séculos atrás, a humanidade foi massacrada até quase a extinção por monstruosas criaturas humanóides chamadas titãs, forçando os humanos a se esconderem de medo atrás de enormes paredes concêntricas. O que torna esses gigantes verdadeiramente aterrorizantes é que seu gosto pela carne humana não nasce da fome, mas do que parece ser do prazer.",
         "image": "assets/browse/2.jpg",
         "release": "Primavera 2013",
@@ -25,7 +23,6 @@
       {
         "id": 2,
         "title": "Clannad",
-        "japanese_title": "",
         "desc": "Tomoya Okazaki é um delinquente que acha a vida monótona e acredita que nunca chegará a nada. Junto com seu amigo Youhei Sunohara, ele mata a escola e planeja desperdiçar seus dias de escola secundária.",
         "image": "assets/browse/3.jpg",
         "release": "Outono 2007",
@@ -34,7 +31,6 @@
       {
         "id": 3,
         "title": "Clannad: After Story",
-        "japanese_title": "",
         "desc": "Clannad: After Story , a sequência da série aclamada pela crítica Clannad , começa depois que Tomoya Okazaki e Nagisa Furukawa concluem o ensino médio. Juntos, eles vivenciam a montanha-russa emocional do crescimento.",
         "image": "assets/browse/4.jpg",
         "release": "Outono 2008",
@@ -43,7 +39,6 @@
       {
         "id": 4,
         "title": "No Game No Life",
-        "japanese_title": "",
         "desc": "A internet está cheia de rumores sobre os irmãos gamer gamer NEET e hikikomori, Sora e Shiro. Os dois chegam a se referir ao mundo como um 'jogo de merda', mas um dia um jovem que se autodenominava 'Deus' os convocou para um universo paralelo. Lá, Deus proibiu a guerra, e 'tudo se resolve com jogos'.",
         "image": "assets/browse/5.jpg",
         "release": "Primavera 2014",
@@ -52,7 +47,6 @@
       {
         "id": 5,
         "title": "Kuroko's Basketball",
-        "japanese_title": "Kuroko no Basket",
         "desc": "A equipa de basquete da Teikou Junior High School é coroado campeão por três anos consecutivos graças a cinco jogadores de destaque que, com suas habilidades únicas e de tirar o fôlego, deixam os adversários em desespero e os fãs em admiração. No entanto, após a formatura, esses companheiros de equipe, conhecidos como 'A Geração dos Milagres', seguem caminhos separados e agora se consideram rivais.",
         "image": "assets/browse/6.jpg",
         "release": "Primavera 2012",
@@ -61,7 +55,6 @@
       {
         "id": 6,
         "title": "Toradora!",
-        "japanese_title": "",
         "desc": "Ryuuji Takasu é um estudante gentil do ensino médio que adora o trabalho doméstico; mas, em contraste com sua natureza gentil, ele tem um rosto intimidador que muitas vezes o rotula de delinquente. Por outro lado está Taiga Aisaka, uma aluna pequena e parecida com uma boneca, que é tudo menos uma garota fofa e frágil.",
         "image": "assets/browse/7.jpg",
         "release": "Outono 2008",
@@ -70,7 +63,6 @@
       {
         "id": 7,
         "title": "Beastars",
-        "japanese_title": "",
         "desc": "Em uma sociedade civilizada de animais antropomórficos, existe uma tensão incômoda entre carnívoros e herbívoros. Na Cherryton Academy, esse pico de desconfiança mútua após um incidente de predação resulta na morte de Tem, uma alpaca do clube de teatro da escola. O amigo de Tem, Legoshi, um lobo cinzento da equipe de palco, tem sido objeto de medo e suspeita por toda a sua vida. ",
         "image": "assets/browse/8.jpg",
         "release": "Outono 2019",
@@ -85,7 +77,6 @@
       {
         "id": 0,
         "title": "Violet Evergarden Movie",
-        "japanese_title": "Gekijouban Violet Evergarden",
         "desc": "Vários anos se passaram desde o fim da Grande Guerra. À medida que a torre de rádio em Leidenschaftlich continua a ser construída, os telefones logo se tornarão mais relevantes, levando a um declínio na demanda por 'Bonecas com memória automática'. Mesmo assim, Violet Evergarden continua ganhando fama após seu sucesso constante com a escrita de cartas.",
         "image": "assets/browse/9.jpg",
         "release": "Outono 2020",
@@ -94,7 +85,6 @@
       {
         "id": 1,
         "title": "A Silent Voice",
-        "japanese_title": "Koe no Katachi",
         "desc": "Como um jovem selvagem, o estudante do ensino fundamental Shouya Ishida procurou vencer o tédio das formas mais cruéis. Quando o surdo Shouko Nishimiya se transfere para sua classe, Shouya e o resto da classe a intimidam impensadamente para se divertir. No entanto, quando sua mãe notifica a escola, ele é destacado e responsabilizado por tudo que foi feito a ela.",
         "image": "assets/browse/10.jpg",
         "release": "Outono 2016",
@@ -103,7 +93,6 @@
       {
         "id": 2,
         "title": "Kuroko's Basketball the Movie: Last Game",
-        "japanese_title": "Kuroko no Basket Movie 4: Last Game",
         "desc": "Vindo da América, o Jabberwock - um time de basquete de rua com habilidades comparáveis às da NBA - veio ao Japão para jogar uma partida de exibição contra Strky, um time de ex-alunos do terceiro ano que já jogou na Copa Interhigh e Winter. No entanto, devido à grande diferença de habilidade, Jabberwock vence facilmente. Seu capitão, Nash Gold Jr., zomba do estilo de basquete de todos os jogadores no Japão, comparando-os aos macacos.",
         "image": "assets/browse/11.jpg",
         "release": "Primavera 2017",
@@ -112,7 +101,6 @@
       {
         "id": 3,
         "title": "Your Name.",
-        "japanese_title": "Kimi no Na wa.",
         "desc": "Mitsuha Miyamizu, uma estudante do ensino médio, anseia por viver a vida de um menino na agitada cidade de Tóquio - um sonho que contrasta fortemente com sua vida atual no campo. Enquanto isso, na cidade, Taki Tachibana vive uma vida agitada como um estudante do ensino médio, enquanto faz malabarismos com seu emprego de meio período e espera por um futuro na arquitetura.",
         "image": "assets/browse/12.jpg",
         "release": "Verão 2016",
@@ -121,7 +109,6 @@
       {
         "id": 4,
         "title": "No Game No Life: Zero",
-        "japanese_title": "",
         "desc": "Na antiga Disboard, Riku é um jovem guerreiro zangado com a intenção de salvar a humanidade da guerra Exceed, as dezesseis espécies sencientes, lutando para estabelecer o 'Deus Único e Verdadeiro' entre o Deus Antigo. Em uma terra sem lei, a falta de magia e corpos fracos da humanidade os tornaram alvos fáceis para os outros Exceed, deixando os humanos à beira da extinção.",
         "image": "assets/browse/13.jpg",
         "release": "Verão 2017",
@@ -130,7 +117,6 @@
       {
         "id": 5,
         "title": "I want to eat your pancreas",
-        "japanese_title": "Kimi no Suizou wo Tabetai",
         "desc": "O protagonista indiferente: um leitor ávido profundamente separado do mundo em que reside. Ele não se interessa pelos outros e está firmemente convencido de que ninguém se interessa por ele também. Sua história começa quando ele se depara com um livro escrito à mão, intitulado 'Living with Dying'.",
         "image": "assets/browse/14.jpg",
         "release": "Verão 2018",
@@ -139,7 +125,6 @@
       {
         "id": 6,
         "title": "My Hero Academia: Two Heroes",
-        "japanese_title": "Boku no Hero Academia the Movie 1: Futari no Hero",
         "desc": "Os alunos da UA High School da Classe 1-A chegaram às férias de verão. Izuku Midoriya acompanha seu mentor All Might a um festival comemorativo de super-heróis na I-Island, um pedaço de terra isolado dedicado a pesquisar Quirks e tudo o mais associado ao negócio de heróis. Midoriya tem a oportunidade de conhecer o amigo de All Might, Dave, e a filha de Dave, Melissa, dois talentosos engenheiros de equipamentos heróis.",
         "image": "assets/browse/15.jpg",
         "release": "Verão 2018",
@@ -148,7 +133,6 @@
       {
         "id": 7,
         "title": "Demon Slayer The Movie: Mugen Train",
-        "japanese_title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
         "desc": "Depois que uma série de desaparecimentos misteriosos começam a assolar um trem, as múltiplas tentativas do Demon Slayer Corps para remediar o problema se mostram infrutíferas. Para evitar mais baixas, o pilar de chamas, Kyoujurou Rengoku, assume a responsabilidade de eliminar a ameaça. ",
         "image": "assets/browse/16.jpg",
         "release": "Outono 2020",
